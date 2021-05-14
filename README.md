@@ -1,4 +1,4 @@
-### Hi there 👋
+### MAGO token is powered by ERC-1155 standard which helps smart contracts manage multiple token types. A smart contract implementing ERC-1155 standard can handle many different kinds of tokens such as fungible, non-fungible or semi-fungible. 👋
 
 <!--
 **maxgoat/maxgoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
